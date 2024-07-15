@@ -1,1 +1,4 @@
 # 2DCell
+# ĐỒ ÁN TỐT NGHIỆP - TRƯỜNG ĐẠI HỌC THỦY LỢI
+# TÊN ĐỒ ÁN: THIẾT KẾ VÀ HOÀN THIỆN MỘT GAME HOÀN CHỈNH BẰNG CÔNG NGHỆ UNITY
+# 62TH4 - TẠ ANH SƠN - 2051060687
